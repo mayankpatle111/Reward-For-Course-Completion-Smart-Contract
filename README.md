@@ -8,6 +8,9 @@ The `RewardForCourseCompletion` smart contract is designed to incentivize and re
 
 ## Contract Address
 0x2B230B3490bA2dEa21268b2fBe505cf2ED310736
+
+![image](https://github.com/user-attachments/assets/8da4b903-6391-4e9f-ad47-431731823cda)
+
 ## Project Vision
 The vision of the `RewardForCourseCompletion` project is to encourage and promote learning blockchain development by offering tangible rewards for completing courses. This contract ensures a fair and decentralized reward system for students, fostering motivation and engagement in the blockchain ecosystem.
 
